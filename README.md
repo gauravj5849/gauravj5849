@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gauravj5849
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gauravj5849/gauravj5849 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hii I am Gaurav Jagtap
+I am Working as Data Analyst Intern at Gamaka AI Solutions
+ I am Passionate about stuff like Data Analytics, Data Visualization, Machine Learning.
+few Tech that i Worked On Python,Numpy,Pandas,Plotly,Seaborn,Sklearn and Tensorflow. I am actively loking for Opportunities in Data Science.
+- Currently working, learning and Growing my skillset in Coding ,Data Visualization using Tableau and Power BI, Machine Learning , Deployment.
+- Open for jobs in analytics, Data Science and Python.
+- Know More About me at [My Resume]()
